@@ -10,8 +10,10 @@ editor: visual
 
 # Corpus description
 
-## Column
-My corpus consists of all studio albums by Prince. 
+## Column (width = 30%)
+My corpus consists of all studio albums by Prince.
+blabla
+teksttest
 
 ### Row (height = 20%)
 
