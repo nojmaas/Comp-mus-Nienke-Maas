@@ -10,11 +10,9 @@ editor: visual
 
 # Corpus description
 
-## Column (width=40%)
+## Column
 My corpus consists of all studio albums by Prince. 
 
 ### Row (height = 20%)
 
-## Column (width=60%)
-blabla
 ---
