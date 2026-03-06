@@ -24,7 +24,7 @@ For my corpus, I use the complete discography of Prince. Prince's body of work s
 
 ### Row
 
-\![\](Assignment_1.png)
+![](Assignment_1.png)
 
 ## Column
 
@@ -40,7 +40,7 @@ For my corpus, I use the complete discography of Prince. Prince's body of work s
 
 ### Row
 
-\![\](Assignment_2.png)
+![](Assignment_2.png)
 
 ## Column
 
