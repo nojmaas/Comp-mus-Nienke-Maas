@@ -90,13 +90,13 @@ The second visualisation is a cepstrogram for the song "My name is Prince" by Pr
 
 ### Row
 
-*Musicology key analysis*
+*"Musicology" keygram (Euclidean method, manhattan normalisation)*
 
 ![](Musicology_key.png)
 
 ### Row
 
-*Musicology chord analysis*
+*"Musicology" chordogram (Euclidean method, manhattan normalisation)*
 
 ![](Musicology_chord.png)
 
@@ -108,10 +108,10 @@ The second visualisation is a cepstrogram for the song "My name is Prince" by Pr
 
 *Key analysis*
 
-blablabla
+This keygram shows an analysis for what key is most likely for "Musicology" by Prince. The analysis used key profiles as described in Temperley (1999), euclidean distance metrics and manhattan normalisation. The visualisation shows that there is no clear indication of a single key, although there is a band around the Emin-Cmaj-Amin area that shows relative stability. However, I think that due to the funky nature of the song, which contains a lot of complicated chords (not just major or minor), key estimation is hard.
 
 ### Row
 
 *Chord analysis*
 
-blablabla
+This chordogram shows an analysis for which chords are most prevalent in "Musicology" by Prince. The visualisation shows that B7 chords occur most frequently, and Bmin chords are also important. This is interesting, because that doesn't really correspond with the findings from the keygram. However, it could be the dominant chord in E minor, which would explain its many occurences. It is however weird that the E chord then doesn't come forward as much.
