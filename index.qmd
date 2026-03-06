@@ -90,8 +90,28 @@ The second visualisation is a cepstrogram for the song "My name is Prince" by Pr
 
 ### Row
 
+*Musicology key analysis*
+
+![](Musicology_key.png)
+
+### Row
+
+*Musicology chord analysis*
+
+![](Musicology_chord.png)
+
 ## Column
 
 **Interpretation**
 
-## \### Row
+### Row
+
+*Key analysis*
+
+blablabla
+
+### Row
+
+*Chord analysis*
+
+blablabla
