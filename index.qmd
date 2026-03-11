@@ -124,7 +124,7 @@ This chordogram shows an analysis for which chords are most prevalent in "Musico
 
 ### Row
 
-*"Musicology" tempogram*
+*"Musicology" tempogram (fourier-based)*
 
 ![](Musicology_tempogram.png)
 
@@ -134,4 +134,4 @@ This chordogram shows an analysis for which chords are most prevalent in "Musico
 
 ### Row
 
-interpretatie blablabla
+The tempogram clearly shows an established tempo, there are lines around 200 bpm and 400 bpm. This is logical because of the nature of the analysis, where double the BPM is also fitting sufficiently to the sound waves.
