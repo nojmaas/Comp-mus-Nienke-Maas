@@ -115,3 +115,23 @@ This keygram shows an analysis for what key is most likely for "Musicology" by P
 *Chord analysis*
 
 This chordogram shows an analysis for which chords are most prevalent in "Musicology" by Prince. The visualisation shows that B7 chords occur most frequently, and Bmin chords are also important. This is interesting, because that doesn't really correspond with the findings from the keygram. However, it could be the dominant chord in E minor, which would explain its many occurences. It is however weird that the E chord then doesn't come forward as much.
+
+# Tempograms
+
+## Column
+
+**Visualisations**
+
+### Row
+
+*"Musicology" tempogram*
+
+![](Musicology_tempogram.png)
+
+## Column
+
+**Interpretation**
+
+### Row
+
+interpretatie blablabla
