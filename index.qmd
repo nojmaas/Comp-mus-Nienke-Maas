@@ -33,7 +33,7 @@ Together, these three songs provide a balanced sample of Prince’s musical outp
 
 ### Row
 
-![](Assignment_1.png)
+![](images/General_patterns.png)
 
 ## Column
 
@@ -41,7 +41,11 @@ Together, these three songs provide a balanced sample of Prince’s musical outp
 
 ### Row
 
-work in progress
+The figure illustrates how the stylistic characteristics of songs by Prince evolved across his career, using danceability and energy as measures of musical style. Each point represents a song, coloured according to its career era, while the diamonds indicate the average position of each era. Overall, most songs cluster in the upper-right region of the plot, between roughly 0.6–0.9 in danceability and 0.5–0.9 in energy. This suggests that Prince’s music consistently emphasized rhythmically engaging and energetic compositions, reflecting his strong grounding in funk, R&B, and dance-oriented pop. A positive relationship between danceability and energy is also visible, as songs that are more danceable tend to be more energetic.
+
+Songs from the early part of Prince’s career show a somewhat wider spread toward lower danceability and energy levels, indicating greater variation between slower R&B-influenced tracks and more rhythmically driven songs. The track “I Wanna Be Your Lover” appears relatively high in danceability, illustrating the strong funk influence that contributed to his early breakthrough. During the breakthrough period of the 1980s, the distribution shifts slightly toward higher energy while remaining highly danceable, reflecting the fusion of funk grooves with the more energetic sound of pop and rock that characterized some of his most commercially successful work. In contrast, the track “Purple Rain” occupies a position with lower danceability and energy than many other songs from this era, highlighting its nature as a slower, emotionally driven rock ballad.
+
+The experimental period displays the greatest dispersion in the plot, suggesting a higher degree of stylistic diversity as Prince explored a wider range of genres and production styles. In the later phase of his career, songs again cluster strongly in the high-danceability region, indicating a continued emphasis on groove-driven compositions. The track “Musicology,” positioned near the centre of the overall distribution, appears stylistically representative of this later period. Despite these variations, the era averages remain relatively close to one another, suggesting that while Prince experimented widely throughout his career, the core stylistic qualities of his music (high rhythmic engagement and moderate to high energy) remained remarkably consistent.
 
 # Chroma features
 
@@ -330,3 +334,9 @@ This tempogram also shows no sudden changes, which corresponds to the song.
 The tempogram of "Musicology" shows a lot more lines than the previous song. The clearest lines are around 50, 100 and 200 bpm. The brightest line is the one of 50 bpm, but it would make the most sense for 100 bpm to be the tempo, and when listening to the song, that is indeed the best match.
 
 There is a very slight acceleration around the middle of the song, but this acceleration is not audible in the actual song. This may be due to a small human error, perhaps there was no metronome used during the recording.
+
+# Conclusion
+
+## Column
+
+work in progress
