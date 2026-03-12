@@ -25,8 +25,6 @@ Finally, “Musicology,” from the album "Musicology" (2004), represents Prince
 
 Together, these three songs provide a balanced sample of Prince’s musical output across different decades, genres and production styles. Because they differ in tempo, structure, instrumentation and recording aesthetics, they offer a varied yet coherent set of examples for in-depth music information retrieval analysis. By examining these tracks alongside the broader corpus, it becomes possible to connect detailed feature-level analysis to larger patterns in Prince’s artistic development.
 
-### Row (height = 20%)
-
 # General patterns in corpus
 
 ## Column (width = 60%)
@@ -47,7 +45,7 @@ work in progress
 
 # Chroma features
 
-## Column
+## Column (width = 60%)
 
 **Visualizations**
 
@@ -265,7 +263,7 @@ This keygram does not show a clear results for which key corresponds to "Musicol
 
 ![](images/MS_beat.png)
 
-## Column (width = 60%)
+## Column
 
 **Interpretation**
 
@@ -307,20 +305,28 @@ This novelty analysis shows that the song is calm and rather mellow: the beats a
 
 **Interpretation**
 
+Because there are no great changes in tempo during the song, a comparison with the self similarity matrices was unfortunately not possible.
+
 ### Row
 
 *I Wanna Be Your Lover*
 
-work in progress
+The tempogram of "I Wanna Be Your Lover" shows clear lines around 30, 60 and 120 bpm. The brightest line is 60 bpm, but it is more likely that the tempo lies around 120 bpm, as this is a more comfortable tempo compared to 60 bpm. When listening to the song, it it audible that the tempo indeed lies around 120 bpm.
+
+The tempogram shows no sudden changes in tempo. There are no clear tempo changes audible in the song, so this makes sense.
 
 ### Row
 
 *Purple rain*
 
-work in progress
+The tempogram of "Purple rain" shows clear lines around the same spots as "I Wanna Be Your Lover", so 30, 60 and 120 bpm. However, in this tempogram, the 120 bpm line seems the clearest. The remarkable aspect of this is that "Purple rain" aligns more with 60 bpm when listening to it. This relates to the smoother, calmer character of the song, compared to "I Wanna Be Your Lover".
+
+This tempogram also shows no sudden changes, which corresponds to the song.
 
 ### Row
 
 *Musicology*
 
-The tempogram clearly shows an established tempo, there are lines around 200 bpm and 400 bpm. This is logical because of the nature of the analysis, where double the BPM is also fitting sufficiently to the sound waves. The tempogram shows a constant slight acceleration, which is not really audible in the song because it is so slight. This may indicate that the recording was not done using metronomes, so there is a slight human error.
+The tempogram of "Musicology" shows a lot more lines than the previous song. The clearest lines are around 50, 100 and 200 bpm. The brightest line is the one of 50 bpm, but it would make the most sense for 100 bpm to be the tempo, and when listening to the song, that is indeed the best match.
+
+There is a very slight acceleration around the middle of the song, but this acceleration is not audible in the actual song. This may be due to a small human error, perhaps there was no metronome used during the recording.
